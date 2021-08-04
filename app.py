@@ -87,4 +87,4 @@ while True:
         text_y = screen.get_height() / 2 - text_rect.height / 2
         screen.blit(text1, [text_x, text_y])
     pg.display.update()
-#for commit 
+#for commit
